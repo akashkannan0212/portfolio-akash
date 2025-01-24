@@ -1,0 +1,14 @@
+/* src/components/Contact.css */
+.contact {
+    padding: 40px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.contact h2 {
+    color: #333;
+}
+
+.contact p {
+    color: #666;
+}
